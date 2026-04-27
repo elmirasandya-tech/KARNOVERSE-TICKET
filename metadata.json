@@ -1,0 +1,5 @@
+{
+  "name": "Event Ticket Cashier",
+  "description": "A professional cashier system for event ticket sales with Google Sheets integration and petty cash management.",
+  "requestFramePermissions": []
+}
